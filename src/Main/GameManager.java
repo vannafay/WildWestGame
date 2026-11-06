@@ -19,8 +19,6 @@ public class GameManager {
 	public Event04 ev4 = new Event04(this);
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 		new GameManager();
 		
 	}
