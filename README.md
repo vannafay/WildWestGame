@@ -1,4 +1,4 @@
-**# 🤠 Wild West Adventure
+🤠 Wild West Adventure
 
 A Java-based, interactive adventure game inspired by **The Lone Ranger**. Travel through a Wild West storyline, make decisions, collect items, and see where your choices take you!
 
@@ -67,8 +67,6 @@ Developing this project was my first opportunity to build an entire game from th
 ## 👩‍💻 Author
 
 **Savannah Heafner**
-
-Developed as a Fall 2024 Honors Anti-Hero Seminar final project.
 
 ---
 
