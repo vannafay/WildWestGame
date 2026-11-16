@@ -43,6 +43,7 @@ Your goal is to make it through the adventure while managing your inventory and 
 3. Import the downloaded project using **File → Import → Existing Projects into Workspace**.
 4. Locate the main Java class containing the `main()` method.
 5. Right-click the file and select **Run As → Java Application**.
+6. NOTE: You must right-click on any elements to interact with them. (Hint: right-click on Tonto to get started). 
 
 ## 📂 Project Structure
 
